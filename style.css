@@ -1,0 +1,20 @@
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: DodgerBlue;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  margin: 5px;
+  text-align: center;
+  line-height: 55px;
+  font-size: 30px;
+}
+.name{
+   width: 25%;
+   
+}
+.name ul{
+    list-style: none;
+}
